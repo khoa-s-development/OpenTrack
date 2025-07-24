@@ -3,5 +3,10 @@
 		"name": "KingOra Network",
 		"ip": "kingora.net",
 		"type": "PC"
+	},
+	{
+		"name": "VietnamSMP"
+		"ip": "vietnamsmp.fun",
+		"type": "PC"
 	}
 }
